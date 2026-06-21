@@ -1,0 +1,7 @@
+verilog xil_defaultlib -i "D:/vivado2/2025.2/Vivado/data/rsb/busdef" \
+"../picorv32.v" \
+
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

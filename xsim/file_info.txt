@@ -1,0 +1,2 @@
+picorv32.v,verilog,xil_defaultlib,../../../../../../../../../Downloads/picorv32.v,incdir="D:/vivado2/2025.2/Vivado/data/rsb/busdef"
+glbl.v,Verilog,xil_defaultlib,glbl.v
